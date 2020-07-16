@@ -1,2 +1,2 @@
 # AWSCICD
-Repository for AWS CICD 
+This repository is created to learn AWS CI/CD automation. 
